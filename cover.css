@@ -69,7 +69,7 @@ body {
 
 
 .imagemargin{
-  margin-left: 50px;
+  margin-left: 20px;
 }
 
 
@@ -78,7 +78,7 @@ body {
    
     margin-top: 100px;
     margin-bottom: 50px;
-    margin-left: 50px;
+    margin-left: 20px;
     border: 3px solid #73AD21;
     padding: 10px;
     
@@ -88,7 +88,7 @@ body {
 
     margin-top: 50px;
     margin-bottom: 50px;
-    margin-left: 50px;
+    margin-left: 20px;
     border: 3px solid #0a52be;
     padding: 10px;
     text-align: justify;
@@ -98,7 +98,7 @@ body {
 .textoquiz{
     margin-top: 50px;
     margin-bottom: 50px;
-    margin-left: 50px;
+    margin-left: 20px;
     border: 3px solid #c50d06;
     padding: 10px;
 
@@ -138,12 +138,4 @@ body {
        margin-left: 50px;
 
 }
-@media (max-width: 400px) {
-    .imagem_mobile {
-        display: block;
-    }
 
-    .imagem_desktop {
-        display: none;
-    }
-}
